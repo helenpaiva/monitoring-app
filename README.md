@@ -12,7 +12,7 @@ This project provides a console application for monitoring the resource usage of
 ### Create a virtual environment:
 
 ```bash
-python -m venv venv
+python -m venv env
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate.bat  # Windows
 ```
